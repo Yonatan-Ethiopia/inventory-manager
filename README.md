@@ -3,7 +3,7 @@
 ## Description
 This project is a simple **Inventory Management System** built for a fundamentals of programming course.  
 It demonstrates **CRUD operations (Create, Read, Update, Delete)** using only **arrays, pointers, functions, structs, and C-style strings**.  
-No STL containers or advanced data structures are used.
+
 
 ---
 
@@ -42,3 +42,4 @@ No STL containers or advanced data structures are used.
 ```bash
 g++ main.cpp create.cpp read.cpp update.cpp delete.cpp -o inventory
 ./inventory
+
